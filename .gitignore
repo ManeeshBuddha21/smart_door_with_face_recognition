@@ -1,0 +1,16 @@
+# Node/Flutter/Python ignores
+*.pyc
+__pycache__/
+.env
+.env.*
+firebase_key.json
+
+# ESP32 firmware secrets
+esp32-cam/WiFiConfig.h
+
+# Flutter
+smart-door-app/.env
+smart-door-app/build/
+smart-door-app/.dart_tool/
+smart-door-app/.packages
+smart-door-app/.flutter-plugins
