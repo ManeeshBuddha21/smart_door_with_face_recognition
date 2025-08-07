@@ -56,7 +56,17 @@ python app.py
 Create a local `firebase_key.json` and `.env` file.
 
 ### Flutter App
-Coming soon — under `smart-door-app/`.
+
+The Flutter app is located in `smart-door-app/`. It includes:
+
+- Door status (locked/unlocked)
+- Manual unlock button
+- Realtime access logs with snapshots
+- Notifications page
+- Firebase Realtime Database integration
+
+> FCM push alerts and face upload support coming soon.
+
 
 ---
 
