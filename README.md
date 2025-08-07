@@ -79,15 +79,3 @@ Coming soon — under `smart-door-app/`.
 
 ---
 
-##  Security Notes
-
-- Never commit `WiFiConfig.h`, `.env`, or Firebase keys.
-- Always use `.gitignore` and `.env.example` patterns.
-
----
-
-##  Next Steps
-
-- [ ] Upload face images to `known_faces/`
-- [ ] Add Flutter UI with login, logs, and camera snapshots
-- [ ] Add web dashboard (optional)
